@@ -34,7 +34,7 @@ The data used for this project comes from the **Physionet “drivedb”** databa
 | **Gaussian SVM** | **98.6%**     |
 
 ## 📂 Documentation
-- [📄 Base Paper](./path/to/basepaper.docx)  
+- [📄 Base Paper]("C:\Users\NANI PAMBA\OneDrive\Documents\basepaper.docx")  
   The base paper provides a detailed explanation of the methods, models, and results, including relevant research on biosignal-based stress detection.
 
 ## 🛠️ Tools & Technologies
