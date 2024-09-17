@@ -34,7 +34,6 @@ The data used for this project comes from the **Physionet “drivedb”** databa
 | **Gaussian SVM** | **98.6%**     |
 
 ## 📂 Documentation
-- [📄 Base Paper]("C:\Users\NANI PAMBA\OneDrive\Documents\basepaper.docx")  
   The base paper provides a detailed explanation of the methods, models, and results, including relevant research on biosignal-based stress detection.
 
 ## 🛠️ Tools & Technologies
@@ -73,4 +72,4 @@ The results indicate that the **Gaussian Kernel** outperforms other kernels in s
 Check the base paper for the complete list of references and supporting research.
 
 ## 📜 License
-This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the **MIT License.**
